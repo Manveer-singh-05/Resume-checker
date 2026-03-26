@@ -1,0 +1,67 @@
+# Environment and sensitive files
+.env
+.env.local
+.env.*.local
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+tmp_uploads/*
+output_resumes/*
+!tmp_uploads/.gitkeep
+!output_resumes/.gitkeep
+logs/*
+!logs/.gitkeep
+*.tmp
+*.temp
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS
+Thumbs.db
+*.bak
+
+# Dependencies
+# requirements.txt is checked in
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Docker
+docker-compose.override.yml
+
+# Misc
+.env.prod
+credentials.json
+secrets/
+config_prod.py

@@ -1,0 +1,54 @@
+JOHN DOE
+john.doe@email.com | (555) 123-4567 | www.linkedin.com/in/johndoe | New York, NY
+
+PROFESSIONAL SUMMARY
+Experienced Software Developer with 5+ years of expertise in full-stack web development. Proficient in Python, JavaScript, and cloud technologies. Strong problem-solving skills and experience leading development teams. Passionate about creating scalable, user-friendly applications.
+
+SKILLS
+• Programming Languages: Python, JavaScript, Java, SQL
+• Web Frameworks: Django, Flask, React, Node.js
+• Databases: PostgreSQL, MongoDB, MySQL
+• Cloud Platforms: AWS, Google Cloud, Heroku
+• DevOps: Docker, GitHub Actions, CI/CD pipelines
+• Version Control: Git, GitHub, Bitbucket
+• Tools: VS Code, Jira, Figma, Postman
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Developer | TechCorp Inc. | Jan 2020 - Present
+• Led development of microservices architecture serving 100K+ users
+• Optimized database queries, reducing API response time by 40%
+• Mentored team of 3 junior developers
+• Implemented CI/CD pipelines using Docker and GitHub Actions
+
+Software Developer | WebDynamics | Jun 2018 - Dec 2019
+• Developed full-stack web applications using Django and React
+• Built RESTful APIs handling 10,000+ requests daily
+• Collaborated with UX team to improve user experience
+• Maintained 95% code test coverage using pytest
+
+Junior Developer | StartupXYZ | Jan 2017 - May 2018
+• Built responsive web interfaces with HTML, CSS, JavaScript
+• Created database schemas using PostgreSQL
+• Fixed bugs and implemented feature requests
+
+PROJECTS
+
+E-Commerce Platform (Personal Project)
+• Full-stack application built with Django and React
+• Features: Product catalog, shopping cart, payment integration
+• Deployed on AWS with SSL security
+
+Task Management Application
+• Python/Flask backend with REST API
+• React frontend with real-time updates
+• MongoDB database for flexible data storage
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of Technology | Graduated: May 2016
+
+CERTIFICATIONS
+• AWS Certified Developer Associate (2021)
+• Google Cloud Certified Associate Cloud Engineer (2020)

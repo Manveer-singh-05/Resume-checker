@@ -1,0 +1,25 @@
+version: "3.8"
+
+services:
+  resume-analyzer-bot:
+    build: .
+    container_name: resume-analyzer-bot
+    restart: always
+    environment:
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - AI_PROVIDER=${AI_PROVIDER:-openai}
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./tmp_uploads:/app/tmp_uploads
+      - ./output_resumes:/app/output_resumes
+      - ./logs:/app/logs
+    env_file:
+      - .env
+    networks:
+      - bot-network
+
+networks:
+  bot-network:
+    driver: bridge

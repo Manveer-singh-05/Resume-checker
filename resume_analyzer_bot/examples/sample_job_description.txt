@@ -1,0 +1,64 @@
+JOB DESCRIPTION
+Position: Senior Python Developer
+Company: CloudTech Solutions
+Location: New York, NY (Remote Available)
+
+About Us:
+CloudTech Solutions is a leading cloud infrastructure company providing scalable solutions to Fortune 500 companies. We're looking for talented developers to join our growing team.
+
+Role Overview:
+We are seeking a Senior Python Developer to lead the development of our next-generation cloud platform. You will work on building scalable backend systems, mentoring junior developers, and driving technical excellence across the organization.
+
+Key Responsibilities:
+• Design and implement scalable Python-based microservices architecture
+• Develop and maintain REST APIs handling millions of requests daily
+• Implement automated testing and continuous integration/deployment pipelines
+• Collaborate with product teams to define technical requirements
+• Mentor and guide junior developers in best practices
+• Participate in code reviews and maintain high code quality standards
+• Optimize application performance and manage technical debt
+• Work with AWS and containerization technologies (Docker, Kubernetes)
+
+Required Qualifications:
+• 5+ years of professional Python development experience
+• Strong expertise in building RESTful APIs and microservices
+• Proficient with PostgreSQL or similar databases
+• Experience with Docker and container orchestration
+• Knowledge of CI/CD pipelines and DevOps practices
+• Strong understanding of software design patterns
+• Excellent problem-solving and communication skills
+• Bachelor's degree in Computer Science or related field
+
+Preferred Qualifications:
+• Experience with cloud platforms (AWS, GCP, Azure)
+• Knowledge of message queues and event-driven architecture
+• Experience with machine learning frameworks (TensorFlow, PyTorch)
+• AWS certifications (Developer, Solutions Architect)
+• Open source contributions
+• Agile/Scrum experience
+
+Technical Stack:
+• Languages: Python 3.8+, JavaScript/TypeScript
+• Frameworks: Django, FastAPI, Flask
+• Databases: PostgreSQL, Redis, MongoDB
+• Cloud: AWS (EC2, S3, Lambda, RDS)
+• DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
+• Monitoring: DataDog, ELK Stack
+• Version Control: Git
+
+Benefits:
+• Competitive salary: $130,000 - $180,000 per year
+• Comprehensive health insurance
+• 401(k) matching
+• Flexible work hours and remote options
+• Professional development budget
+• Stock options
+• Generous PTO policy
+
+How to Apply:
+Submit your resume, portfolio, and GitHub profile to careers@cloudtech.com
+
+Contact:
+HR Department
+CloudTech Solutions
+hr@cloudtech.com
